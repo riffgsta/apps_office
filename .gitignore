@@ -1,0 +1,3 @@
+echo koneksi.php > .gitignore
+echo uploads/ >> .gitignore
+echo .vscode/ >> .gitignore
